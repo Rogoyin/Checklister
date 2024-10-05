@@ -1,0 +1,46 @@
+# TO-DO.
+
+# MAIN_WINDOW.
+- Tecla TAB entre Entries.
+- Achicar botón de X.
+- Centrar texto de los Entries. 
+- Acomodar y dar estilo a botones "+" y "Accept".
+- Que el frame de los Entries se scrollee si hay más de los que entran en pantalla.
+- Cambiar título de la Main_Window.
+- Botón de "Save". 
+- Botón de "My checklists".
+- Botón de "Help" que lleve al archivo "Readme".
+- Botón de "Github".
+- Ícono.
+
+# SAVE_WINDOW.
+- Nombre.
+- Permitir solo ints.
+- Opciones: Monthly, Weekly, Daily, Hourly, Minutely.
+- Si es Monthly, Weekly, Daily, Hourly o Minutely: Entries de Dia, Hora, Minuto de Inicio.
+- Si es Minutely: Entries de cantidad (int), Hora y Minuto de Inicio y Hora y Minuto de Final.
+- Opciones: Rango horario (Si es Hourly o Other minutes).
+- Botón de preguntar carpeta dónde el .py se guarda.
+- Crear un archivo .py en una carpeta.
+- Crear un task manager con las instrucciones de hora.
+- Botón de "Help" que lleve al archivo "Readme".
+- Botón de "Github".
+- Ícono.
+
+# CHECKLIST_WINDOW.
+- Que el frame de los Entries se scrollee si hay más de los que entran en pantalla.
+- Estilo a los check de Checklist_Window.
+- Estilo al botón "Check" de Checklist_Window.
+- Cambiar título de la Checklist_Window.
+- Botón de "Help" que lleve al archivo "Readme".
+- Botón de "Github".
+- Ícono.
+
+# MY_CHECKLISTS_WINDOW.
+- Lista con checklist creados con su nombre y hora.
+- Botón de cruz al costado.
+- Advertencia en cartel con botón de aceptar.
+- Función de borrar task manager si se borra.
+- Botón de "Help" que lleve al archivo "Readme".
+- Botón de "Github".
+- Ícono.
