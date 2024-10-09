@@ -1,11 +1,8 @@
 # TO-DO.
 
 # MAIN_WINDOW.
-- Tecla TAB entre Entries.
 - Achicar botón de X.
 - Centrar texto de los Entries. 
-- Acomodar y dar estilo a botones "+" y "Accept".
-- Que el frame de los Entries se scrollee si hay más de los que entran en pantalla.
 - Cambiar título de la Main_Window.
 - Botón de "Save". 
 - Botón de "My checklists".
@@ -41,6 +38,11 @@
 - Botón de cruz al costado.
 - Advertencia en cartel con botón de aceptar.
 - Función de borrar task manager si se borra.
+- Botón de "Change name".
+- Change_Name cambia el nombre, cambia el Task manager y el nombre del archivo.py.
 - Botón de "Help" que lleve al archivo "Readme".
 - Botón de "Github".
 - Ícono.
+
+
+- Pasar a archivo Excel.
